@@ -1,0 +1,33 @@
+.all{
+    text-align: center;
+}
+
+.start{
+background-color: green;
+border: 0;
+}
+
+.stop{
+    background-color: red;
+    border: 0;
+    
+}
+
+.reset{
+    background-color:gray;
+    border: 0;
+}
+
+.short{
+    background-color: rgb(44, 178, 205);
+    border: 0;
+}
+
+.long{
+    background-color: purple;
+    border: 0;
+}
+
+button{
+    color:white;
+}
